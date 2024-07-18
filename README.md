@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimra Yaqoob</h1>
 <h3 align="center">A passionate front-end developer from Pakistan</h3>
 
-<img align=right" alt="code" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align=right" alt="code" width="400" src="[https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsbf33s5a.respectforchange.org%2F&psig=AOvVaw2kvubxMWX62CZcVCHAoQDL&ust=1721384493421000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDcjZ2vsIcDFQAAAAAdAAAAABBQ)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimra-yaqoob&label=Profile%20views&color=0e75b6&style=flat" alt="nimra-yaqoob" /> </p>
 
