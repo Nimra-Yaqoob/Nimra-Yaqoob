@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **full stack Google**
 - 💬 Ask me about **react, flutter**
 - 📫 How to reach me **nimrach056@gmail.com**
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am Quick Learner **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
