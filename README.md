@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimra Yaqoob</h1>
 <h3 align="center">A passionate front-end developer from Pakistan</h3>
 
-<img alt="code" width="400" src="https://github.com/user-attachments/assets/548770de-772d-4735-8862-7e73d95aaaf7" />
+<img align="right" alt="code" width="400" src="https://github.com/user-attachments/assets/548770de-772d-4735-8862-7e73d95aaaf7" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimra-yaqoob&label=Profile%20views&color=0e75b6&style=flat" alt="nimra-yaqoob" /> </p>
 
