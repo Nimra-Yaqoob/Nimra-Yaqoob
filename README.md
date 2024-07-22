@@ -2,10 +2,10 @@
 <h3 align="center">A Passionate Front-End Developer from Pakistan</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/548770de-772d-4735-8862-7e73d95aaaf7" alt="code" width="400" />
+  <img src="https://github.com/user-attachments/assets/548770de-772d-4735-8862-7e73d95aaaf7" alt="Nimra Yaqoob" width="400" />
 </p>
 
-<p align="center"> 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nimra-yaqoob&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -18,25 +18,25 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/nimra-yaqoob" target="blank">
+  <a href="https://linkedin.com/in/nimra-yaqoob" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="https://instagram.com/nimzz_chudhry" target="blank">
+  <a href="https://instagram.com/nimzz_chudhry" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
   </a>
-  <a href="https://www.youtube.com/c/rapid.fire" target="blank">
+  <a href="https://www.youtube.com/c/rapid.fire" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30" />
   </a>
-  <a href="https://www.hackerearth.com/@nimrach056" target="blank">
+  <a href="https://www.hackerearth.com/@nimrach056" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="30" />
   </a>
-  <a href="https://discord.gg/dfMbh4zU" target="blank">
+  <a href="https://discord.gg/dfMbh4zU" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="30" />
   </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
   </a>
