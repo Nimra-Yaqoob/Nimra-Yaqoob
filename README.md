@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nimra Yaqoob</h1>
-<h3 align="center">A passionate front-end developer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <img align="right" alt="code" width="400" src="https://github.com/user-attachments/assets/548770de-772d-4735-8862-7e73d95aaaf7" />
 
